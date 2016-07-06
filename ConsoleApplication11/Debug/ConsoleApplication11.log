@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication11.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Generalni Problem Dodjeljivanja (MMAS).cpp
+d:\fakultet\6 semestar\pi\labosi\consoleapplication11\consoleapplication11\generalni problem dodjeljivanja (mmas).cpp(201): warning C4101: 'najmanjeTrajanjePosla': unreferenced local variable
+d:\fakultet\6 semestar\pi\labosi\consoleapplication11\consoleapplication11\generalni problem dodjeljivanja (mmas).cpp(203): warning C4101: 'fSUM': unreferenced local variable
+  ConsoleApplication11.vcxproj -> D:\Fakultet\6 semestar\PI\labosi\ConsoleApplication11\Debug\Završni rad.exe

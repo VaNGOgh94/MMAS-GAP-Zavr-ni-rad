@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Generalni Problem Dodjeljivanja (MMAS).cpp
+Generalni Problem Dodjeljivanja (MMAS).cpp(201): warning C4101: 'najmanjeTrajanjePosla': unreferenced local variable
+Generalni Problem Dodjeljivanja (MMAS).cpp(203): warning C4101: 'fSUM': unreferenced local variable
+  Generating code
+  All 44 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication11.vcxproj -> D:\Fakultet\6 semestar\PI\labosi\ConsoleApplication11\Release\Završni rad.exe

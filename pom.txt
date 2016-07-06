@@ -1,0 +1,8 @@
+delete[] najboljeRjesenjeDosad;
+	for (int i = 0; i < brojAgenata; i++) {
+		delete[] agenti[i].cijenePoslova;
+		delete[] feromoni[i];
+	}
+	delete[] feromoni;
+	delete[] poslovi;
+	delete[] mravi;
